@@ -42,3 +42,16 @@ button {
 button:hover{
 	background:green;
 }
+.message-box {
+    display: none;
+    padding: 12px;
+    margin-top: 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    white-space: pre-line;
+}
+.subject-list label {
+    display: block;
+    margin: 6px 0;
+    font-size: 18px;
+}
